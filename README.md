@@ -4,7 +4,7 @@
 CardioPredict is a machine learning-based system for predicting the presence of cardiovascular disease (heart disease) using clinical and demographic patient data. The project compares seven different classification models and selects **XGBoost** as the best-performing algorithm, achieving **99.5% accuracy** and **99.94% AUC-ROC**. The model is made interpretable using **SHAP** (Explainable AI) to identify key risk factors.
 
 ## 📊 Dataset
-- **Source**: Cardiovascular Disease Dataset  
+- **Source**: https://data.mendeley.com/datasets/dzz48mvjht/1 
 - **Number of records**: 1000 patients  
 - **Number of attributes**: 14 (including target variable)  
 - **Key features**:
